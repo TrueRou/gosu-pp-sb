@@ -1,4 +1,4 @@
-# gosu-pp
+# gosu-pp-sb
 
 osu! performance calculator written in go. Base copied from https://github.com/Wieku/danser-go
 
